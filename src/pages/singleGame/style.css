@@ -1,0 +1,8 @@
+.gInfo p span {
+  transition: 0.3s;
+  color: #00000080;
+  cursor: default;
+}
+.gInfo p span:hover {
+  color: black;
+}

@@ -1,0 +1,10 @@
+.dealBox {
+  /* max-height: 350px; */
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+.progress {
+  background-color: #2090ff1c !important;
+}

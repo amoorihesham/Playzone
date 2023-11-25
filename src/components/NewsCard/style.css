@@ -1,0 +1,9 @@
+.boxNews {
+  max-height: 450px;
+}
+.boxNews img {
+  transition: 0.5s;
+}
+.boxNews:hover img {
+  scale: 1.1;
+}
